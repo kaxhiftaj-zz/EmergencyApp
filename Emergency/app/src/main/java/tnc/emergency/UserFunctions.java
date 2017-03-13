@@ -15,8 +15,8 @@ import java.util.List;
  */
 public class UserFunctions {
 
-    private static String NumberURL = "http://sosappp.com/APIs/api.return_location_on_lat_long.php";
-    private static String DataURL = "http://sosappp.com/APIs/api.backup_data_to_phone.php";
+    private static String NumberURL = "http://alizaibilalkhan.com/map/APIs/api.return_location_on_lat_long.php";
+    private static String DataURL = "http://alizaibilalkhan.com/map/APIs/api.backup_data_to_phone.php";
     private JSONParser jsonParser;
 
     public UserFunctions() {
