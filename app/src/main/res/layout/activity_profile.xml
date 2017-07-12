@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="tnc.emergency.ProfileActivity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+    <ImageView
+        android:id="@+id/header_cover_image"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop"
+        android:src="@color/colorPrimaryDark"
+        android:elevation="5dp"/>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/selimage"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@+id/header_cover_image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-60dp"
+        android:elevation="5dp"
+        android:clickable="true"
+        android:padding="20dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/mydp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:typeface="monospace"
+            android:text="Name"
+            android:textColor="#000"
+            android:elevation="5dp"
+            android:layout_above="@+id/name"
+            android:layout_alignLeft="@+id/name"
+            android:layout_alignStart="@+id/name" />
+        <TextView
+            android:layout_width="280dp"
+            android:layout_height="40dp"
+            android:id="@+id/name"
+            android:hint="Name"
+            android:background="#fff"
+            android:elevation="5dp"
+            android:paddingTop="10dp"
+            android:typeface="monospace"
+            android:paddingLeft="5dp"
+            android:layout_margin="5dp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Age"
+            android:textColor="#000"
+            android:elevation="5dp"
+            android:layout_below="@+id/name"
+            android:typeface="monospace"
+            android:layout_alignLeft="@+id/name"
+            android:layout_alignStart="@+id/name" />
+
+        <TextView
+            android:layout_width="280dp"
+            android:layout_height="40dp"
+            android:id="@+id/age"
+            android:elevation="5dp"
+            android:hint="Age"
+            android:typeface="monospace"
+            android:background="#fff"
+            android:paddingTop="10dp"
+            android:paddingLeft="5dp"
+            android:layout_marginTop="19dp"
+            android:layout_below="@+id/name"
+            android:layout_alignLeft="@+id/name"
+            android:layout_alignStart="@+id/name" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:typeface="monospace"
+            android:text="Date Of Birth"
+            android:textColor="#000"
+            android:elevation="5dp"
+            android:layout_below="@+id/age"
+            android:layout_alignLeft="@+id/age"
+            android:layout_alignStart="@+id/age" />
+
+        <TextView
+            android:layout_width="280dp"
+            android:layout_height="40dp"
+            android:id="@+id/dob"
+            android:elevation="5dp"
+            android:hint="Date Of Birth"
+            android:layout_marginTop="21dp"
+            android:background="#fff"
+            android:paddingTop="10dp"
+            android:paddingLeft="5dp"
+            android:layout_below="@+id/age"
+            android:typeface="monospace"
+            android:layout_alignLeft="@+id/textView"
+            android:layout_alignStart="@+id/textView" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Blood Group"
+            android:textColor="#000"
+            android:elevation="5dp"
+            android:id="@+id/textView"
+            android:layout_below="@+id/dob"
+            android:typeface="monospace"
+            android:layout_alignLeft="@+id/bGroup"
+            android:layout_alignStart="@+id/bGroup" />
+
+        <TextView
+            android:layout_width="280dp"
+            android:layout_height="40dp"
+            android:id="@+id/bGroup"
+            android:hint="Blood Group"
+            android:elevation="5dp"
+            android:typeface="monospace"
+            android:layout_marginTop="20dp"
+            android:background="#fff"
+            android:layout_below="@+id/dob"
+            android:paddingTop="10dp"
+            android:paddingLeft="5dp"
+            android:layout_alignLeft="@+id/name"
+            android:layout_alignStart="@+id/name" />
+
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

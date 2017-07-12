@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_163cc5ebef26e25a8fcdb3e010f88d8637df22fe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.0.0_6909b6358cca1b0badfbca1549f701328998c8b9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.0_98f5cf9cdccaaae37040599611ae36c95e2040f4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.0.0_8aa6ebf8554ff2258efeca5c8e292ecde2ef02fe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.github.markushi/circlebutton/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.markushi-circlebutton-1.1_2f7cf43065ba707e3f8beb25e33b885e14279558/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.0.0_8c2d91ce697b2ddb5ec36775fd289e3afa24940e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.0_07a36986e1260a7305f087138d818137dc2fabde/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.0_957154f1090b2caa8d9855d47634b017d45b4ad4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b899da34ee49b59de0374708b353e45e1335b392">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_53d5e2fc6bf58d732c7153f0ad5348beb170e373/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_fe14c6e76ce08b343749373c01091ef1bf2e7928/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.0_f976e7d51818677f3de46f06718b877d436cc6e4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_341e8f11f6afa38dcc224a81ba3c21d010591788/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.0_0258482a75c77c2c20d38ca607d0e6f607ba6ca4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="587f4c460372ea39dbfe2b6ed793ad14e2907351">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_93e1be7c233060a029ca5679d4eb365e315fd010/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.0_9f962cb7c9f08b374144861ef77bac3af954e0d9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.0_f34a9196672c2d3ba5325b933174c1bd8f562807/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.0.0_6ff485e6d985414dfa20000d1a1c48db9f83093b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.0_1d14c993bcd6aef59a1015a762f76dbc343485be/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.0.0_744b85e2550c6587802358a20f7d360cf800a282/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.0_176e12769b17a3ae6209bbe852a68588eb68491e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.0_cb13f59f0589c665b198297a9acbc8911d837ff9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.0_a5c3fb55ffda2e6aba629fb8951253023729e028/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_70823536d269ec4851b1422be3819bb9781482df/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_9041b30886dffb3ffbcedf75882c3a0f51f34bc8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_b5f085ea0ee8a8b3cedf3b52787286548d995062/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.0_7693568fcbc0bb9ba9f593dbd68eb044b92e7382/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_c38e803434d62550c43b61614a4f9adcc02753f0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.0_4576fd89d8da2fa2809ab78e3df09d47c7583e15/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/libs/org.apache.http.legacy.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.apache.http.legacy_51705e50c732fb5bb4adfab0230f98bee1ddde3f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_930e20d301518736bdf5bcdedad21eb2f6683864/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_7000045ca5f2d3f68552fb8c095e2de8ba7d35b8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.0.0_4baf5ffe3877520b4c5fcb2db7426259b1daef3f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_6d93587900477df558309ecd1be4f50a1a068bb8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.0.0_0f0cb1e917a341263dab6a8e88ab277e0bd568ef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.0_a8919164a8f2888c4f9c0da1eb371778be017627/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.0.0_b01cb87aeade9ce5027a0260c56d25b9618f3650/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.0.0_d26f2dfe7a62524bb1f3c1e612a25030f9ec53d9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_9f9feefe75dfbd0c377cadded67f40e309d9356f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_19e4eabc6e0378dc8198ad93d43a8e1616e1c0d4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.0.0_75559817019ed6df3093b2e083de817d181b7226/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_533e46254d3eaf99e1ca0fcc31b1eed6ff818986/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.clans-fab-1.6.2_c621e7d0aaebc39b234ad09f7beba1b2699d38ae/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.0_7ffb31d67e4b67088b1723252bcd64c335ee9881/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_3849fb0bba44057077a5fb9ceeb48b01022669a5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.0_4dd1388b01898132f11f17051cdad21f6ae143a9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.0_0f20668a76ba5819fd223a26eafdcfd8fed739bc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.0.0_1b02af296cd03b301fb48dac0b51e2a10c48fd67/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.0.0_9b769a6bd4532ba3c08e59772ee34e4cfef4d0f8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.0_d1d956338a0cfed716c282b6dd1882e37da184db/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.0_edee00c57596239f148b1b9e0d1627cd807d1b35/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.0_52b84aad17105aab93f44fc4ac5deb2ae52562e6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.0.0_fb95cad8444eba786c18780a44ec79342f7a65e5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_953a28bf87881adeff76b637b551d3e3684cd999/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.0.0_e8f1567b24f175c7119df9412a7f05fe01dbde4d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.0_41daebfe2e58213129ed0cabbe9d0feff23d5417/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.0_ffdbb5a13082dd7f4820e88606ece2917c5cf1d6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_f1afa5335f80469f866691a62b8231c80a15bb2e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/danyal/AndroidStudioProjects/Emergency/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_39f9d94eca1d4c47e7d9dd59e75c89f69e00b644/classes.dex" />
+    </item>
+
+</items>

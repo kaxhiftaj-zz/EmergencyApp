@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="80dp"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/main"
+    android:id="@+id/home"
+  >
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:src="@drawable/police"
+            android:id="@+id/callPolice"
+            android:layout_weight="0.40"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="143dp" />
+
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="1"
+    android:layout_marginBottom="40dp"
+    >
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="90dp"
+            android:id="@+id/smsFreind"
+            android:background="@drawable/sms"
+            android:paddingTop="70dp"
+            android:layout_weight="0.5" />
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="90dp"
+            android:paddingTop="70dp"
+            android:background="@drawable/hospi"
+            android:id="@+id/callHospital"
+            android:layout_weight="0.5"
+
+          />
+
+</LinearLayout>
+
+
+    </LinearLayout>
