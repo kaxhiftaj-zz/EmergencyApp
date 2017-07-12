@@ -50,6 +50,7 @@ public class ShakeService extends Service implements SensorEventListener {
       //  listFriendNumbers.add("03318006056 ");
 
         dbManipulation = new DbManipulation();
+        context = getApplicationContext();
         listFriendNumbers = dbManipulation.getPhoneNumber(context);
 
         return Service.START_STICKY;
